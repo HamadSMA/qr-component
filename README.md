@@ -12,7 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](images/qr-desktop.png)
-![](images/qr-mobile.png)
 
 ### Built with
 
